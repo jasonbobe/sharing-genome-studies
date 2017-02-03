@@ -5,3 +5,4 @@
 | BWH/Harvard MedSeq | 2011- | Research | 60 | WGS | Yes | Monogenic, Common, PGx | Yes | FASTQ | Yes |
 | Mount Sinai HealthSeq |	2012–2015	| Research	| 40	| WGS	| No	| Monogenic, Common, PGx |	No	| BAM, VCF	| No | paper |
 | Mayo "10 scientists" |	2012–2014	| Research	| 10	| WES	| No	| Monogenic |	No| Yes |	No | paper |
+| Institute for Systems Biology (ISB) Pioneer 100 | 2014 | Research | 108 | WGS | No | X	X	X | No | BAM, VCF | No | paper |
