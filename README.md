@@ -102,7 +102,7 @@ This is a summary of all known research studies in the United States that provid
 - **Report to Health Record:** No
 - **Raw Data to Participants:** Yes, BAM
 - **CLIA/CAP:** No
-- **Website:** [https://seeq.io/](https://seeq.io/}
+- **Website:** [https://seeq.io/](https://seeq.io/)
 - **Last updated (who/when):** Joe Pickrell, Feb 2017
 
 ## Stub
