@@ -105,17 +105,6 @@ This is a summary of all known research studies in the United States that provid
 - **Website:** [https://seeq.io/](https://seeq.io/)
 - **Last updated (who/when):** Joe Pickrell, Feb 2017
 
-```
-## Stub
-- **Dates:** 20
-- **Context:** 
-- **# people sequenced to-date:** 
-- **Platform:** 
-- **Lab Report with Signout:** 
-- **Results Returned:** 
-- **Report to Health Record:** 
-- **Raw Data to Participants:** 
-- **CLIA/CAP:** 
-- **Last updated (who/when):** 
+
 
 
