@@ -60,6 +60,30 @@
 - **CLIA/CAP:** No
 - **Last updated (who/when):** Paper
 
+## BWH/BCH/Harvard BabySeq Project
+- **Dates:** 2015-
+- **Context:** Research
+- **# people sequenced to-date:** 30 
+- **Platform:** WGS
+- **Lab Report with Signout:** Yes 
+- **Results Returned:** Monogenic, PGx
+- **Report to Health Record:** Yes
+- **Raw Data to Participants:** FASTQ
+- **CLIA/CAP:** Yes
+- **Last updated (who/when):** paper
+
+## Nevada Institute of Personalized medicine
+- **Dates:** 2015-
+- **Context:** Research
+- **# people sequenced to-date:** 0 
+- **Platform:** WES
+- **Lab Report with Signout:** Yes 
+- **Results Returned:** Monogenic, PGx
+- **Report to Health Record:** Yes
+- **Raw Data to Participants:** FASTQ
+- **CLIA/CAP:** Yes
+- **Website:** [https://www.unlv.edu/nipm](https://www.unlv.edu/nipm)
+- **Last updated (who/when):** paper
 
 ## Stub
 - **Dates:** 20
