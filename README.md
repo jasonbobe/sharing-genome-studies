@@ -6,7 +6,7 @@ Want to add or edit your study to this website?
 ```
 [Submit details of your study now.](https://goo.gl/forms/BPcBSdhTt3kW77aC2)
 
-## Havard Personal Genome Project
+## Harvard Personal Genome Project
 - **Dates:** 2005-
 - **Context:** Research
 - **# people sequenced to-date:** 278
