@@ -49,16 +49,16 @@
 - **Last updated (who/when):** Paper
 
 ## Institute for Systems Biology (ISB) Pioneer 100
-- _Dates:_ 2014
-- _Context:_ Research
-- _# people sequenced to-date:_ 108 
-- _Platform:_ WGS
-- _Lab Report with Signout:_ No 
-- _Results Returned:_ Monogenic, Common, PGx
-- _Report to Health Record:_ No
-- _Raw Data to Participants:_ BAM, VCF
-- _CLIA/CAP:_ No
-- _Last updated (who/when):_ Paper
+- **Dates:** 2014
+- **Context:** Research
+- **# people sequenced to-date:** 108 
+- **Platform:** WGS
+- **Lab Report with Signout:** No 
+- **Results Returned:** Monogenic, Common, PGx
+- **Report to Health Record:** No
+- **Raw Data to Participants:** BAM, VCF
+- **CLIA/CAP:** No
+- **Last updated (who/when):** Paper
 
 
 ## Stub
@@ -73,17 +73,7 @@
 - **CLIA/CAP:** 
 - **Last updated (who/when):** 
 
-## Stub
-- _Dates:_ 20
-- _Context:_ 
-- _# people sequenced to-date:_ 
-- _Platform:_ 
-- _Lab Report with Signout:_ 
-- _Results Returned:_ 
-- _Report to Health Record:_ 
-- _Raw Data to Participants:_ 
-- _CLIA/CAP:_ 
-- _Last updated (who/when):_ 
+
 
 
 ## Welcome to GitHub Pages
