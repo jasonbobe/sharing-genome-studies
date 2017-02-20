@@ -97,7 +97,7 @@ Want to add or edit your study?
 - **Last updated (who/when):** paper
 
 ## Seeq
-- **Dates:** 2016
+- **Dates:** 2016-
 - **Context:** Research
 - **# people sequenced to-date:** 500 
 - **Platform:** WGS (ultra low coverage)
