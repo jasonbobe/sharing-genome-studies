@@ -1,5 +1,7 @@
 
-This is a summary of all known research studies in the United States that provide enrolled participants the option to access their own raw genome data generated as part of the study. [Submit details of your study now.](https://goo.gl/forms/BPcBSdhTt3kW77aC2)
+This is a summary of all known research studies in the United States that provide enrolled participants the option to access their own raw genome data generated as part of the study. 
+
+Want to add or edit your study to this website? [Submit details of your study now.](https://goo.gl/forms/BPcBSdhTt3kW77aC2)
 
 
 ## Havard Personal Genome Project
