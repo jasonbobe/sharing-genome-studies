@@ -92,6 +92,19 @@ This is a summary of all known research studies in the United States that provid
 - **Website:** [https://www.unlv.edu/nipm](https://www.unlv.edu/nipm)
 - **Last updated (who/when):** paper
 
+## Seeq
+- **Dates:** 2016
+- **Context:** Research
+- **# people sequenced to-date:** 500 
+- **Platform:** WGS (ultra low coverage)
+- **Lab Report with Signout:** No
+- **Results Returned:** Ancestry, microbiome
+- **Report to Health Record:** No
+- **Raw Data to Participants:** Yes, BAM
+- **CLIA/CAP:** No
+- **Website:** [https://seeq.io/](https://seeq.io/}
+- **Last updated (who/when):** Joe Pickrell, Feb 2017
+
 ## Stub
 - **Dates:** 20
 - **Context:** 
