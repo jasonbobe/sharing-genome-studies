@@ -3,8 +3,8 @@ This is a summary of all known research studies in the United States that provid
 
 ```
 Want to add or edit your study to this website? 
-[Submit details of your study now.](https://goo.gl/forms/BPcBSdhTt3kW77aC2)
 ```
+[Submit details of your study now.](https://goo.gl/forms/BPcBSdhTt3kW77aC2)
 
 ## Havard Personal Genome Project
 - **Dates:** 2005-
