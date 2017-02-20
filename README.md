@@ -110,5 +110,5 @@ Want to add or edit your study?
 - **Last updated (who/when):** Joe Pickrell, Feb 2017
 
 
-
+[View as a table](https://github.com/jasonbobe/sharing-genome-studies/blob/master/table.md)
 
