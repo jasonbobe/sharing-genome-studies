@@ -70,6 +70,7 @@
 - **Report to Health Record:** Yes
 - **Raw Data to Participants:** FASTQ
 - **CLIA/CAP:** Yes
+- **Website:** [http://www.genomes2people.org/babyseqproject/](http://www.genomes2people.org/babyseqproject/)
 - **Last updated (who/when):** paper
 
 ## Nevada Institute of Personalized medicine
