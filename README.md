@@ -8,6 +8,7 @@
 - **Report to Health Record:** No
 - **Raw Data to Participants:** Yes (variants)
 - **CLIA/CAP:** No
+- **Website:** [http://personalgenomes.org/harvard](http://personalgenomes.org/harvard)
 - **Last updated:** Jason Bobe, Feb 20 2017; need to get update from Mike Chou
 
 
@@ -21,6 +22,7 @@
 - **Report to Health Record:** Yes
 - **Raw Data to Participants:** FASTQ
 - **CLIA/CAP:** Yes
+- **Website:** [http://www.genomes2people.org/the-medseq-project/](http://www.genomes2people.org/the-medseq-project/)
 - **Last updated (who/when):** Jason Bobe, Feb 2017; Need to get updated from Robert Green
 
 
