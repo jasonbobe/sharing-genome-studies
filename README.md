@@ -1,3 +1,9 @@
+
+```markdown
+This is a summary of all known research studies that provide participants with access to raw genome data.
+```
+
+
 ## Havard Personal Genome Project
 - **Dates:** 2005-
 - **Context:** Research
