@@ -1,11 +1,5 @@
 
-```markdown
-This is a summary of all known research studies 
-in the United States that provide each 
-participant with the option to access 
-their personal genome data in 
-raw form.
-```
+This is a summary of all known research studies in the United States that provide each participant with the option to access their personal genome data in raw form.
 
 
 ## Havard Personal Genome Project
