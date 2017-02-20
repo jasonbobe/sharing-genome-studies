@@ -1,5 +1,5 @@
 
-This is a summary of all known research studies in the United States that provide enrolled participants the option to access their own raw genome data generated as part of the study. 
+This is a summary of all known research studies in the United States that provide enrolled participants the option to access their own raw genome sequence data generated as part of the study. 
 
 
 Want to add or edit your study? 
