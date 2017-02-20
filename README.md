@@ -1,3 +1,68 @@
+## Havard Personal Genome Project
+- **Dates:** 2005-
+- **Context:** Research
+- **# people sequenced to-date:** 278
+- **Platform:** WGS
+- **Lab Report with Signout:** No
+- **Results Returned:** Yes, filtered variants with literature annotation
+- **Report to Health Record:** No
+- **Raw Data to Participants:** Yes (variants)
+- **CLIA/CAP:** No
+- **Last updated:** Jason Bobe, Feb 20 2017; need to get update from Mike Chou
+
+
+## BWH/Harvard MedSeq
+- **Dates:** 2011-
+- **Context:** Research
+- **# people sequenced to-date:** 60 
+- **Platform:** WGS
+- **Lab Report with Signout:** Yes 
+- **Results Returned:** Monogenic, Common, PGx
+- **Report to Health Record:** Yes
+- **Raw Data to Participants:** FASTQ
+- **CLIA/CAP:** Yes
+- **Last updated (who/when):** Jason Bobe, Feb 2017; Need to get updated from Robert Green
+
+
+## Mount Sinai HealthSeq
+- **Dates:** 2012-2015
+- **Context:** Research
+- **# people sequenced to-date:** 40 
+- **Platform:** WGS
+- **Lab Report with Signout:** No 
+- **Results Returned:** Monogenic, Common, PGx
+- **Report to Health Record:** No
+- **Raw Data to Participants:** VAM, VCF
+- **CLIA/CAP:** No
+- **Last updated (who/when):** published paper
+
+## Mayo "10 scientists"
+- **Dates:** 2012-2014
+- **Context:** Research
+- **# people sequenced to-date:** 10 
+- **Platform:** WES
+- **Lab Report with Signout:** No
+- **Results Returned:** Nomogenic
+- **Report to Health Record:** No
+- **Raw Data to Participants:** Yes
+- **CLIA/CAP:** No
+- **Last updated (who/when):** Paper
+
+
+## Stub
+- **Dates:** 20
+- **Context:** 
+- **# people sequenced to-date:** 
+- **Platform:** 
+- **Lab Report with Signout:** 
+- **Results Returned:** 
+- **Report to Health Record:** 
+- **Raw Data to Participants:** 
+- **CLIA/CAP:** 
+- **Last updated (who/when):** 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jasonbobe/sharing-genome-studies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
