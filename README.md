@@ -42,7 +42,7 @@ Want to add or edit your study?
 - **Lab Report with Signout:** No 
 - **Results Returned:** Monogenic, Common, PGx
 - **Report to Health Record:** No
-- **Raw Data to Participants:** VAM, VCF
+- **Raw Data to Participants:** BAM, VCF
 - **CLIA/CAP:** No
 - **Last updated (who/when):** published paper
 
