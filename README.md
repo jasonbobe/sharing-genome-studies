@@ -1,6 +1,9 @@
 
-This is a summary of all known research studies in the United States that provide enrolled participants the option to access their own raw genome sequence data generated as part of the study. 
+This is a summary of all known research studies in the United States that provide enrolled participants the option to access their own uninterpreted genome sequence data generated as part of the study. 
 
+Limitations of this resource:
+- Only includes sequencing based research studies. Does not currently include studies that provide uninterpreted genotype data from microarrays. 
+- Focuses only on research studies, not access to genome data from commercial DTC. However, if a research study partners with a commercial company to provide acces to sequencing data, that should qualify.
 
 Want to add or edit your study? 
 [Submit details of your study now.](https://goo.gl/forms/BPcBSdhTt3kW77aC2)
