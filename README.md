@@ -115,3 +115,5 @@ Want to add or edit your study?
 
 [View as a table](https://github.com/jasonbobe/sharing-genome-studies/blob/master/table.md)
 
+References:
+[1] Linderman MD, Green RC: [Participatory personal genome sequencing in ostensibly healthy individuals and the PeopleSeq Consortium.](http://www.genomes2people.org/wp-content/uploads/2016/03/Linderman-PeopleSeq-JPersMed-2016.pdf) Journal of Personalized Medicine. 2016 Mar; 6(2):14. Table 1 from this paper was the starting point for this collection.
