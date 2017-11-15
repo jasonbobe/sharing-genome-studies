@@ -100,7 +100,7 @@ Want to add or edit your study?
 - **Last updated (who/when):** paper
 
 ## Seeq
-- **Dates:** 2016-
+- **Dates:** 2016-2017
 - **Context:** Research
 - **# people sequenced to-date:** 500 
 - **Platform:** WGS (ultra low coverage)
@@ -110,7 +110,7 @@ Want to add or edit your study?
 - **Raw Data to Participants:** Yes, BAM
 - **CLIA/CAP:** No
 - **Website:** [https://seeq.io/](https://seeq.io/)
-- **Last updated (who/when):** Joe Pickrell, Feb 2017
+- **Last updated (who/when):** Joe Pickrell, Feb 2017 (this project spun out into a company, Gencove)
 
 
 [View as a table](https://github.com/jasonbobe/sharing-genome-studies/blob/master/table.md)
