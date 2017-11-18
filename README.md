@@ -12,15 +12,15 @@ Want to add or edit your study?
 ## Harvard Personal Genome Project
 - **Dates:** 2005-
 - **Context:** Research
-- **# people sequenced to-date:** 278
+- **# people sequenced to-date:** 352
 - **Platform:** WGS
 - **Lab Report with Signout:** No
 - **Results Returned:** Yes, filtered variants with literature annotation
 - **Report to Health Record:** No
 - **Raw Data to Participants:** Yes (variants)
 - **CLIA/CAP:** No
-- **Website:** [http://personalgenomes.org/harvard](http://personalgenomes.org/harvard)
-- **Last updated:** Jason Bobe, Feb 20 2017; need to get update from Mike Chou
+- **Website:** [https://pgp.med.harvard.edu/](https://pgp.med.harvard.edu/)
+- **Last updated:** Jason Bobe, Nov 17 2017 communications with multiple team members
 
 
 ## BWH/Harvard MedSeq
