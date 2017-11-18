@@ -26,7 +26,7 @@ Want to add or edit your study?
 ## BWH/Harvard MedSeq
 - **Dates:** 2011-
 - **Context:** Research
-- **# people sequenced to-date:** 60 
+- **# people sequenced to-date:** 100 
 - **Platform:** WGS
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, Common, PGx
@@ -34,13 +34,13 @@ Want to add or edit your study?
 - **Raw Data to Participants:** FASTQ
 - **CLIA/CAP:** Yes
 - **Website:** [http://www.genomes2people.org/the-medseq-project/](http://www.genomes2people.org/the-medseq-project/)
-- **Last updated (who/when):** Jason Bobe, Feb 2017; Need to get updated from Robert Green
+- **Last updated (who/when):** Jason Bobe, Nov 2017 based on Annals Internal Med paper; need to get updated from Robert Green
 
 
 ## Mount Sinai HealthSeq
 - **Dates:** 2012-2015
 - **Context:** Research
-- **# people sequenced to-date:** 40 
+- **# people sequenced to-date:** 35 
 - **Platform:** WGS
 - **Lab Report with Signout:** No 
 - **Results Returned:** Monogenic, Common, PGx
