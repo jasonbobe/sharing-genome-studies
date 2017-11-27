@@ -20,7 +20,7 @@ Want to add or edit your study?
 - **Raw Data to Participants:** Yes (variants)
 - **CLIA/CAP:** No
 - **Website:** [https://pgp.med.harvard.edu/](https://pgp.med.harvard.edu/)
-- **Last updated:** Jason Bobe, Nov 17 2017 communications with multiple team members
+- **Last updated:** Jason Bobe, Nov 17 2017 communications with multiple Harvard PGP team members
 
 
 ## BWH/Harvard MedSeq
