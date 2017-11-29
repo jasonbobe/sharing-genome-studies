@@ -26,7 +26,7 @@ Want to add or edit your study?
 ## BWH/Harvard MedSeq
 - **Dates:** 2011-
 - **Context:** Research
-- **# people sequenced to-date:** 100 
+- **# people sequenced to-date:** 110 
 - **Platform:** WGS
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, Common, PGx
@@ -34,7 +34,7 @@ Want to add or edit your study?
 - **Raw Data to Participants:** FASTQ
 - **CLIA/CAP:** Yes
 - **Website:** [http://www.genomes2people.org/the-medseq-project/](http://www.genomes2people.org/the-medseq-project/)
-- **Last updated (who/when):** Jason Bobe, Nov 2017 based on Annals Internal Med paper; need to get updated from Robert Green
+- **Last updated (who/when):** Jason Bobe, communications with Robert Green Nov 28, 2017
 
 
 ## Mount Sinai HealthSeq
@@ -76,7 +76,7 @@ Want to add or edit your study?
 ## BWH/BCH/Harvard BabySeq Project
 - **Dates:** 2015-
 - **Context:** Research
-- **# people sequenced to-date:** 30 
+- **# people sequenced to-date:** 160 
 - **Platform:** WGS
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, PGx
@@ -84,7 +84,7 @@ Want to add or edit your study?
 - **Raw Data to Participants:** FASTQ
 - **CLIA/CAP:** Yes
 - **Website:** [http://www.genomes2people.org/babyseqproject/](http://www.genomes2people.org/babyseqproject/)
-- **Last updated (who/when):** paper
+- **Last updated (who/when):** Jason Bobe, communications with Robert Green Nov 28, 2017
 
 ## Nevada Institute of Personalized medicine
 - **Dates:** 2015-
