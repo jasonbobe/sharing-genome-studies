@@ -125,6 +125,18 @@ Want to add or edit your study?
 - **Website:** [https://allofus.nih.gov/](https://allofus.nih.gov/)
 - **Last updated (who/when):** Jason Bobe, Nov 26, 2017 communication with Eric Topol
 
+## 100,000 Genomes Project (United Kingdom)
+- **Dates:** 2015-
+- **Context:** Research
+- **# people sequenced to-date:** 44,633
+- **Platform:** WGS 
+- **Lab Report with Signout:** Yes
+- **Results Returned:** Monogenic, PGx (planned)
+- **Report to Health Record:** ?
+- **Raw Data to Participants:** Yes
+- **CLIA/CAP:** Yes
+- **Website:** [https://www.genomicsengland.co.uk/the-100000-genomes-project/](https://www.genomicsengland.co.uk/the-100000-genomes-project/)
+- **Last updated (who/when):** Adrian Thorogood & Jason Bobe, January 2018 communication with Eric Topol
 [View as a table](https://github.com/jasonbobe/sharing-genome-studies/blob/master/table.md)
 
 References:
