@@ -12,13 +12,13 @@ Want to add or edit your study?
 ## Harvard Personal Genome Project
 - **Dates:** 2005-
 - **Context:** Research
-- **# people sequenced to-date:** 352
+- **# genomes sequenced to-date:** 352
 - **Platform:** WGS
 - **Lab Report with Signout:** No
 - **Results Returned:** Yes, filtered variants with literature annotation
 - **Report to Health Record:** No
 - **Raw Data to Participants:** Yes (variants)
-- **CLIA/CAP:** No
+- **Accredited Lab:** No
 - **Website:** [https://pgp.med.harvard.edu/](https://pgp.med.harvard.edu/)
 - **Last updated:** Jason Bobe, Nov 17 2017 communications with multiple Harvard PGP team members
 
@@ -26,13 +26,13 @@ Want to add or edit your study?
 ## BWH/Harvard MedSeq
 - **Dates:** 2011-
 - **Context:** Research
-- **# people sequenced to-date:** 110 
+- **# genomes sequenced to-date:** 110 
 - **Platform:** WGS
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, Common, PGx
 - **Report to Health Record:** Yes
 - **Raw Data to Participants:** FASTQ
-- **CLIA/CAP:** Yes
+- **Accredited Lab:** Yes
 - **Website:** [http://www.genomes2people.org/the-medseq-project/](http://www.genomes2people.org/the-medseq-project/)
 - **Last updated (who/when):** Jason Bobe, communications with Robert Green Nov 28, 2017
 
@@ -40,101 +40,101 @@ Want to add or edit your study?
 ## Mount Sinai HealthSeq
 - **Dates:** 2012-2015
 - **Context:** Research
-- **# people sequenced to-date:** 35 
+- **# genomes sequenced to-date:** 35 
 - **Platform:** WGS
 - **Lab Report with Signout:** No 
 - **Results Returned:** Monogenic, Common, PGx
 - **Report to Health Record:** No
 - **Raw Data to Participants:** BAM, VCF
-- **CLIA/CAP:** No
+- **Accredited Lab:** No
 - **Last updated (who/when):** published paper
 
 ## Mayo "10 scientists"
 - **Dates:** 2012-2014
 - **Context:** Research
-- **# people sequenced to-date:** 10 
+- **# genomes sequenced to-date:** 10 
 - **Platform:** WES
 - **Lab Report with Signout:** No
 - **Results Returned:** Monogenic
 - **Report to Health Record:** No
 - **Raw Data to Participants:** Yes
-- **CLIA/CAP:** No
+- **Accredited Lab:** No
 - **Last updated (who/when):** Paper
 
 ## Institute for Systems Biology (ISB) Pioneer 100
 - **Dates:** 2014
 - **Context:** Research
-- **# people sequenced to-date:** 108 
+- **# genomes sequenced to-date:** 108 
 - **Platform:** WGS
 - **Lab Report with Signout:** No 
 - **Results Returned:** Monogenic, Common, PGx
 - **Report to Health Record:** No
 - **Raw Data to Participants:** BAM, VCF
-- **CLIA/CAP:** No
+- **Accredited Lab:** No
 - **Last updated (who/when):** Paper
 
 ## BWH/BCH/Harvard BabySeq Project
 - **Dates:** 2015-
 - **Context:** Research
-- **# people sequenced to-date:** 160 
+- **# genomes sequenced to-date:** 160 
 - **Platform:** WGS
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, PGx
 - **Report to Health Record:** Yes
 - **Raw Data to Participants:** FASTQ
-- **CLIA/CAP:** Yes
+- **Accredited Lab:** Yes
 - **Website:** [http://www.genomes2people.org/babyseqproject/](http://www.genomes2people.org/babyseqproject/)
 - **Last updated (who/when):** Jason Bobe, communications with Robert Green Nov 28, 2017
 
 ## Nevada Institute of Personalized medicine
 - **Dates:** 2015-
 - **Context:** Research
-- **# people sequenced to-date:** 0 
+- **# genomes sequenced to-date:** 0 
 - **Platform:** WES
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, PGx
 - **Report to Health Record:** Yes
 - **Raw Data to Participants:** FASTQ
-- **CLIA/CAP:** Yes
+- **Accredited Lab:** Yes
 - **Website:** [https://www.unlv.edu/nipm](https://www.unlv.edu/nipm)
 - **Last updated (who/when):** paper
 
 ## Seeq
 - **Dates:** 2016-2017
 - **Context:** Research
-- **# people sequenced to-date:** 500 
+- **# genomes sequenced to-date:** 500 
 - **Platform:** WGS (ultra low coverage)
 - **Lab Report with Signout:** No
 - **Results Returned:** Ancestry, microbiome
 - **Report to Health Record:** No
 - **Raw Data to Participants:** Yes, BAM
-- **CLIA/CAP:** No
+- **Accredited Lab:** No
 - **Website:** [https://seeq.io/](https://seeq.io/)
 - **Last updated (who/when):** Jason Bobe, Joe Pickrell, Feb 2017 (this project spun out into a company, Gencove)
 
 ## NIH All of Us
 - **Dates:** 2017-
 - **Context:** Research
-- **# people sequenced to-date:** 0 
+- **# genomes sequenced to-date:** 0 
 - **Platform:** WGS 
 - **Lab Report with Signout:** ?
 - **Results Returned:** ?
 - **Report to Health Record:** ?
 - **Raw Data to Participants:** Yes
-- **CLIA/CAP:** Yes
+- **Accredited Lab:** Yes
 - **Website:** [https://allofus.nih.gov/](https://allofus.nih.gov/)
 - **Last updated (who/when):** Jason Bobe, Nov 26, 2017 communication with Eric Topol
 
 ## 100,000 Genomes Project (United Kingdom)
 - **Dates:** 2015-
 - **Context:** Research
-- **# people sequenced to-date:** 44,633
+- **# genomes sequenced to-date:** 44,633
 - **Platform:** WGS 
 - **Lab Report with Signout:** Yes
 - **Results Returned:** Monogenic, PGx (planned)
 - **Report to Health Record:** ?
 - **Raw Data to Participants:** Yes
-- **CLIA/CAP:** Yes
+- **Accredited Lab:** Yes
 - **Website:** [https://www.genomicsengland.co.uk/the-100000-genomes-project/](https://www.genomicsengland.co.uk/the-100000-genomes-project/)
 - **Last updated (who/when):** Adrian Thorogood & Jason Bobe, January 2018 communication with Eric Topol
 [View as a table](https://github.com/jasonbobe/sharing-genome-studies/blob/master/table.md)
