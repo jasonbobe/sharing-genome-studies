@@ -17,7 +17,7 @@ Want to add or edit your study?
 - **Lab Report with Signout:** No
 - **Results Returned:** Yes, filtered variants with literature annotation
 - **Report to Health Record:** No
-- **Raw Data to Participants:** Yes (variants)
+- **Uninterpreted Data to Participants:** Yes (variants)
 - **Accredited Lab:** No
 - **Website:** [https://pgp.med.harvard.edu/](https://pgp.med.harvard.edu/)
 - **Last updated:** Jason Bobe, Nov 17 2017 communications with multiple Harvard PGP team members
@@ -31,7 +31,7 @@ Want to add or edit your study?
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, Common, PGx
 - **Report to Health Record:** Yes
-- **Raw Data to Participants:** FASTQ
+- **Uninterpreted Data to Participants:** FASTQ
 - **Accredited Lab:** Yes
 - **Website:** [http://www.genomes2people.org/the-medseq-project/](http://www.genomes2people.org/the-medseq-project/)
 - **Last updated (who/when):** Jason Bobe, communications with Robert Green Nov 28, 2017
@@ -45,9 +45,9 @@ Want to add or edit your study?
 - **Lab Report with Signout:** No 
 - **Results Returned:** Monogenic, Common, PGx
 - **Report to Health Record:** No
-- **Raw Data to Participants:** BAM, VCF
+- **Uninterpreted Data to Participants:** BAM, VCF
 - **Accredited Lab:** No
-- **Last updated (who/when):** published paper
+- **Last updated (who/when):** Paper [1]
 
 ## Mayo "10 scientists"
 - **Dates:** 2012-2014
@@ -57,9 +57,9 @@ Want to add or edit your study?
 - **Lab Report with Signout:** No
 - **Results Returned:** Monogenic
 - **Report to Health Record:** No
-- **Raw Data to Participants:** Yes
+- **Uninterpreted Data to Participants:** Yes
 - **Accredited Lab:** No
-- **Last updated (who/when):** Paper
+- **Last updated (who/when):** Paper [1]
 
 ## Institute for Systems Biology (ISB) Pioneer 100
 - **Dates:** 2014
@@ -69,9 +69,9 @@ Want to add or edit your study?
 - **Lab Report with Signout:** No 
 - **Results Returned:** Monogenic, Common, PGx
 - **Report to Health Record:** No
-- **Raw Data to Participants:** BAM, VCF
+- **Uninterpreted Data to Participants:** BAM, VCF
 - **Accredited Lab:** No
-- **Last updated (who/when):** Paper
+- **Last updated (who/when):** Paper [1]
 
 ## BWH/BCH/Harvard BabySeq Project
 - **Dates:** 2015-
@@ -81,7 +81,7 @@ Want to add or edit your study?
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, PGx
 - **Report to Health Record:** Yes
-- **Raw Data to Participants:** FASTQ
+- **Uninterpreted Data to Participants:** FASTQ
 - **Accredited Lab:** Yes
 - **Website:** [http://www.genomes2people.org/babyseqproject/](http://www.genomes2people.org/babyseqproject/)
 - **Last updated (who/when):** Jason Bobe, communications with Robert Green Nov 28, 2017
@@ -94,10 +94,10 @@ Want to add or edit your study?
 - **Lab Report with Signout:** Yes 
 - **Results Returned:** Monogenic, PGx
 - **Report to Health Record:** Yes
-- **Raw Data to Participants:** FASTQ
+- **Uninterpreted Data to Participants:** FASTQ
 - **Accredited Lab:** Yes
 - **Website:** [https://www.unlv.edu/nipm](https://www.unlv.edu/nipm)
-- **Last updated (who/when):** paper
+- **Last updated (who/when):** paper [1]
 
 ## Seeq
 - **Dates:** 2016-2017
@@ -107,7 +107,7 @@ Want to add or edit your study?
 - **Lab Report with Signout:** No
 - **Results Returned:** Ancestry, microbiome
 - **Report to Health Record:** No
-- **Raw Data to Participants:** Yes, BAM
+- **Uninterpreted Data to Participants:** Yes, BAM
 - **Accredited Lab:** No
 - **Website:** [https://seeq.io/](https://seeq.io/)
 - **Last updated (who/when):** Jason Bobe, Joe Pickrell, Feb 2017 (this project spun out into a company, Gencove)
@@ -120,7 +120,7 @@ Want to add or edit your study?
 - **Lab Report with Signout:** ?
 - **Results Returned:** ?
 - **Report to Health Record:** ?
-- **Raw Data to Participants:** Yes
+- **Uninterpreted Data to Participants:** Yes
 - **Accredited Lab:** Yes
 - **Website:** [https://allofus.nih.gov/](https://allofus.nih.gov/)
 - **Last updated (who/when):** Jason Bobe, Nov 26, 2017 communication with Eric Topol
@@ -132,11 +132,12 @@ Want to add or edit your study?
 - **Platform:** WGS 
 - **Lab Report with Signout:** Yes
 - **Results Returned:** Monogenic, PGx (planned)
-- **Report to Health Record:** ?
-- **Raw Data to Participants:** Yes
+- **Report to Health Record:** Yes
+- **Uninterpreted Data to Participants:** Yes
 - **Accredited Lab:** Yes
 - **Website:** [https://www.genomicsengland.co.uk/the-100000-genomes-project/](https://www.genomicsengland.co.uk/the-100000-genomes-project/)
-- **Last updated (who/when):** Adrian Thorogood & Jason Bobe, January 2018 communication with Eric Topol
+- **Last updated (who/when):** Adrian Thorogood & Jason Bobe, January 2018. 
+
 [View as a table](https://github.com/jasonbobe/sharing-genome-studies/blob/master/table.md)
 
 References:
