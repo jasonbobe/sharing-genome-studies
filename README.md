@@ -55,7 +55,7 @@ Want to add or edit your study?
 - **# people sequenced to-date:** 10 
 - **Platform:** WES
 - **Lab Report with Signout:** No
-- **Results Returned:** Nomogenic
+- **Results Returned:** Monogenic
 - **Report to Health Record:** No
 - **Raw Data to Participants:** Yes
 - **CLIA/CAP:** No
